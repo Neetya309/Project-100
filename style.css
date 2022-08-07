@@ -1,0 +1,49 @@
+body {
+    text-align: center;
+    background-color:aqua;
+}
+    
+#note {
+    color:red;
+}
+hr {
+    background-color: black;
+    width: 90%;
+    display: inline;
+}
+
+img {
+    width:30%;
+}
+#footer {
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    background-color: white;
+    width:100%;
+}
+#one:hover {
+    padding:10px;
+    border-radius: 30px;
+    box-shadow:backdrop;
+    border-radius: 30cm;
+    display:inline;
+}
+#two:hover {
+    padding:10px;
+    border-radius: 30px;
+    box-shadow:backdrop;
+    border-radius: 30cm;
+    display:inline;
+}
+#three:hover {
+    padding:10px;
+    border-radius: 30px;
+    box-shadow:backdrop;
+    border-radius: 30cm;
+    display:inline;
+}
+#footer:hover {
+    font-weight:bolder;
+    color:red;
+}
